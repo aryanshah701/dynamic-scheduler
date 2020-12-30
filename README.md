@@ -45,11 +45,7 @@ Refer to the sample request files in the sample-tests directory to get a better 
 
 * [Java](https://docs.oracle.com/en/java/)
 
-## Authors
-
-* **Aryan Shah** - *Initial work*
-
 ## Acknowledgments
 
-* [**Dr. Rajmohan Rajaraman**](rraj@ccs.neu.edu) - *Sample Tests and Request class*
+* [Kevin Gold](kgold@ccs.neu.edu) - *Sample Tests and Request class*
 
